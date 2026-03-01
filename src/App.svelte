@@ -4,7 +4,7 @@
 
 	let colorPickerIndex = 0;
 	let isFractionalRgb = true;
-	let rgb: RGB = {r: 0, g: 0, b: 0};
+	let rgb: RGB = {r: 1, g: 1, b: 1};
 	let cssValue = getCurrentColorAsCss();
 
 	let hasHiddenManually = false;
